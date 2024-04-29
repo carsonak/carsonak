@@ -2,9 +2,9 @@
 
 ## About Me
 
-- :books: I'm currently enrolled in [ALX][alx] Software Engineering programme
+- 📚 I'm currently enrolled in [ALX][alx] Software Engineering programme
 - 🌱 I'm currently learning Python, Javascript and SQL.
-- :handshake: I'm looking to collaborate on projects with any of the above languages.
+- 🤝 I'm looking to collaborate on projects with any of the above languages.
 
 > Doing Hard Things
 
@@ -12,17 +12,9 @@
 
 ## Socials
 
-<picture>
-  <source align="left" width="32" media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-  <source align="left" width="32" media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/black">
-  <img  align="left" width="32" alt="Shows X's logo" src="./img/x-color.svg" />
-</picture>
+[<img alt="Shows X's logo" height="32" width="32" src="https://cdn.simpleicons.org/x/black/white" />][X]
 &nbsp; &nbsp;
-<picture>
-  <source align="left" width="32" media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
-  <source align="left" width="32" media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/#EA4335">
-  <img  align="left" width="32" alt="Shows X's logo" src="./img/gmail-color.svg" />
-</picture>
+[<img alt="Shows G-mail's logo" height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335/white" />][gmail]
 &nbsp; &nbsp;
 
 <br>
@@ -32,9 +24,9 @@
 
 <!-- GitHub Stats -->
 <picture>
-  <source height=200 align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
-  <source height=200 align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&show_icons=true">
-  <img height=200 align="center" alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
+  <source height=200 align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub Stats&show_icons=true">
+  <source height=200 align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&custom_title=GitHub Stats&show_icons=true">
+  <img height=200 align="center" alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub Stats&show_icons=true">
 </picture>
 
 <!-- Top Languages -->
@@ -45,3 +37,5 @@
 </picture>
 
 [alx]: https://www.alxafrica.com/ (ALX Africa)
+[X]: https://twitter.com/andrewiscarson (X)
+[gmail]: carsoniskihara@gmail.com (G-Mail)
