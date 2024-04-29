@@ -12,7 +12,10 @@
 
 ## Socials
 
-[<img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />][X]
+[<img align="left" width="32" src="https://cdn.simpleicons.org/X/#000000/#FFFFFF" />][X]
+
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
