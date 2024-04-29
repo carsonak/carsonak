@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carsonak/carsonak/assets/49104171/b8330966-464d-4446-b180-830c4d9542d8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/carsonak/carsonak/assets/49104171/0e724c7b-6dc1-47cb-8429-b82428fb56ad">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carsonak/carsonak/assets/49104171/dd0f9637-0bfa-4db8-91f7-56063b222caa">
   <img alt="Hello there, I am Andrew. A fullstack devloper." src="https://github.com/carsonak/carsonak/assets/49104171/b8330966-464d-4446-b180-830c4d9542d8">
 </picture>
 <!--
@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->!
+
+# About Me
+![Screenshot 2024-04-29 094952 Dark](https://github.com/carsonak/carsonak/assets/49104171/0e724c7b-6dc1-47cb-8429-b82428fb56ad)
+
 
   - :books: Currently enrolled in ALX Software Engineering programme.
   - 🌱 I'm currntly learning Python, Javascript and Rust.
