@@ -21,17 +21,17 @@
 
 <!-- GitHub Stats -->
 <picture>
-  <source height=240 media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
-  <source height=240 media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&show_icons=true">
-  <img height=240 alt="Shows statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&show_icons=true">
+  <img alt="Shows statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
 </picture>
 
 <!-- Top Languages -->
 
 <picture>
-  <source height=240 media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=github_dark_dimmed&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
-  <source height=240 media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=catppuccin_latte&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
-  <img height=240 alt="Shows statistics for carson ak." src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=github_dark_dimmed&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=github_dark_dimmed&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=catppuccin_latte&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
+  <img alt="Shows statistics for carson ak." src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsonak&layout=donut-vertical&theme=github_dark_dimmed&show_icons=truet&size_weight=0.5&count_weight=0.5&langs_count=9&exclude_repo=github-readme-stats,C-Quadratic-Sieve,Shell_Test_Suite,myfirstwebpage,Betty,0x01-Task1SourceCode,mazesolving">
 </picture>
 
 [X]: https://twitter.com/andrewiscarson (X)
