@@ -15,18 +15,16 @@
 [<img alt="Shows X's logo" height="32" width="32" src="https://cdn.simpleicons.org/x/black/white" />][X]
 &nbsp; &nbsp;
 [<img alt="Shows G-mail's logo" height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335/white" />][gmail]
-&nbsp; &nbsp;
 
-<br>
 <br>
 
 ------
 
 <!-- GitHub Stats -->
 <picture>
-  <source height=200 align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub Stats&show_icons=true">
-  <source height=200 align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&custom_title=GitHub Stats&show_icons=true">
-  <img height=200 align="center" alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub Stats&show_icons=true">
+  <source height=200 align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub%20Stats&show_icons=true">
+  <source height=200 align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&custom_title=GitHub%20Stats&show_icons=true">
+  <img height=200 align="center" alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&custom_title=GitHub%20Stats&show_icons=true">
 </picture>
 
 <!-- Top Languages -->
