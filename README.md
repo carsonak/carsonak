@@ -2,8 +2,8 @@
 
 ## About Me
 
-- :books: Currently enrolled in ALX Software Engineering programme.
-- 🌱 I'm currntly learning Python, Javascript and SQL.
+- :books: I'
+- 🌱 I'm currently learning Python, Javascript and SQL.
 - :handshake: I'm looking to collaborate on projects with any of the above languages.
 
 <!-- Add more details -->
@@ -13,6 +13,7 @@
 [<img align="left" width="32" src="https://unpkg.com/simple-icons@v11/icons/x.svg" />][X]
 [<img align="left" width="32" src="https://unpkg.com/simple-icons@v11/icons/gmail.svg" />][gmail]
 
+<br>
 <br>
 
 ------
