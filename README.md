@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->!
+-->
 
 # About Me
-![Screenshot 2024-04-29 094952 Dark](https://github.com/carsonak/carsonak/assets/49104171/0e724c7b-6dc1-47cb-8429-b82428fb56ad)
-
-
   - :books: Currently enrolled in ALX Software Engineering programme.
   - 🌱 I'm currntly learning Python, Javascript and Rust.
   - :handshake: I'm looking to collaborate on projects with any of the above languages.
