@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carsonak/carsonak/assets/49104171/b8330966-464d-4446-b180-830c4d9542d8">
+  <img alt="Hello there, I am Andrew. A fullstack devloper." src="https://github.com/carsonak/carsonak/assets/49104171/b8330966-464d-4446-b180-830c4d9542d8">
+</picture>
 <!--
 **carsonak/carsonak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+-->!
+
+  - :books: Currently enrolled in ALX Software Engineering programme.
+  - 🌱 I'm currntly learning Python, Javascript and Rust.
+  - :handshake: I'm looking to collaborate on projects with any of the above languages.
+  - :mailbox_with_mail: How to reach me: G-mail carsoniskihara@gmail.com
