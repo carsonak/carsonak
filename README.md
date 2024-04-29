@@ -21,9 +21,9 @@
 
 <!-- GitHub Stats -->
 <picture>
-  <source height=240 media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
-  <source height=240 media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&show_icons=true">
-  <img height=240 alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
+  <source height=200 media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
+  <source height=200 media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=catppuccin_latte&show_icons=true">
+  <img height=200 alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
 </picture>
 
 <br>
