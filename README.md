@@ -7,13 +7,13 @@
 - :handshake: I'm looking to collaborate on projects with any of the above languages.
 
 <!-- Add more details -->
-<br>
 
 ## Socials
 
 [<img align="left" width="32" src="https://unpkg.com/simple-icons@v11/icons/x.svg" />][X]
 [<img align="left" width="32" src="https://unpkg.com/simple-icons@v11/icons/gmail.svg" />][gmail]
 
+<br>
 ------
 
 <!-- GitHub Stats -->
@@ -23,7 +23,6 @@
   <img height=200 align="center" alt="Shows GitHub statistics for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api?username=carsonak&theme=github_dark_dimmed&show_icons=true">
 </picture>
 
-<br>
 <!-- Top Languages -->
 
 <picture>
