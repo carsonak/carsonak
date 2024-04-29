@@ -14,6 +14,7 @@
 [<img align="left" width="32" src="https://unpkg.com/simple-icons@v11/icons/gmail.svg" />][gmail]
 
 <br>
+
 ------
 
 <!-- GitHub Stats -->
