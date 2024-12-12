@@ -1,12 +1,9 @@
-# :sparkles: **Hello there**, I am Andrew, a fullstack developer
+# :sparkles: **Hello there**, I am Andrew.
 
 ## About Me
 
-- 📚 I'm currently enrolled in [ALX][alx] Software Engineering programme
-- 🌱 I'm currently learning Python, Javascript and SQL.
-- 🤝 I'm looking to collaborate on projects with any of the above languages.
-
-> Doing Hard Things
+- Currently learning C, C++, Python, Javascript and SQL.
+- I'm looking to collaborate on projects with any of the above languages.
 
 <!-- Add more details -->
 
@@ -34,6 +31,5 @@
   <img height=200 align="center" alt="Shows most used languages for carson ak." src="https://github-readme-stats-xi-one-93.vercel.app/api/top-langs/?username=carsonak&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&show_icons=truet&size_weight=0.5&count_weight=0.5&hide=c%23">
 </picture>
 
-[alx]: https://www.alxafrica.com/ (ALX Africa)
 [X]: https://twitter.com/andrewiscarson (X)
 [gmail]: carsoniskihara@gmail.com (G-Mail)
