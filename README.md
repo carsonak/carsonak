@@ -11,7 +11,6 @@
 
 [<img alt="Shows X's logo" height="32" width="32" src="https://cdn.simpleicons.org/x/_/white" />][X]
 &nbsp; &nbsp;
-[<img alt="Shows G-mail's logo" height="32" width="32" src="https://cdn.simpleicons.org/gmail/_/white" />][gmail]
 
 <br>
 
@@ -32,4 +31,3 @@
 </picture>
 
 [X]: https://twitter.com/andrewiscarson (X)
-[gmail]: carsoniskihara@gmail.com (G-Mail)
