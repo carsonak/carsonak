@@ -1,19 +1,5 @@
 # :sparkles: **Hello there**, I am Andrew.
 
-## About Me
-
-- Currently learning C, C++, Python, Javascript and SQL.
-- I'm looking to collaborate on projects with any of the above languages.
-
-<!-- Add more details -->
-
-## Socials
-
-[<img alt="Shows X's logo" height="32" width="32" src="https://cdn.simpleicons.org/x/_/white" />][X]
-&nbsp; &nbsp;
-
-<br>
-
 ------
 
 <!-- GitHub Stats -->
